@@ -53,6 +53,7 @@ Guatemala
 Guinea
 Haiti
 Honduras
+Hong Kong
 Hungary
 Iceland
 India
@@ -67,6 +68,7 @@ Japan
 Jordan
 Kazakhstan
 Kenya
+Kosovo
 Kuwait
 Kyrgyzstan
 Laos
@@ -120,8 +122,10 @@ Singapore
 Slovakia
 Slovenia
 South Africa
+South Sudan
 Spain
 Sri Lanka
+Palestine
 Eswatini
 Sweden
 Switzerland
