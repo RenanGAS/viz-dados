@@ -1,0 +1,811 @@
+,Year,Country name,Explained by: Social support,Region
+0,2024,Finland,1.783,Europe & Central Asia
+1,2024,Denmark,1.748,Europe & Central Asia
+2,2024,Iceland,1.84,Europe & Central Asia
+3,2024,Sweden,1.698,Europe & Central Asia
+4,2024,Netherlands,1.667,Europe & Central Asia
+5,2024,Costa Rica,1.6,Latin America & Caribbean
+6,2024,Norway,1.711,Europe & Central Asia
+7,2024,Israel,1.743,Middle East & North Africa
+8,2024,Luxembourg,1.558,Europe & Central Asia
+9,2024,Mexico,1.504,Latin America & Caribbean
+10,2024,Australia,1.647,East Asia & Pacific
+11,2024,New Zealand,1.712,East Asia & Pacific
+12,2024,Switzerland,1.622,Europe & Central Asia
+13,2024,Belgium,1.646,Europe & Central Asia
+14,2024,Ireland,1.659,Europe & Central Asia
+15,2024,Lithuania,1.699,Europe & Central Asia
+16,2024,Austria,1.592,Europe & Central Asia
+17,2024,Canada,1.647,North America
+18,2024,Slovenia,1.718,Europe & Central Asia
+19,2024,Czechia,1.716,Europe & Central Asia
+20,2024,United Arab Emirates,1.294,Middle East & North Africa
+21,2024,Germany,1.625,Europe & Central Asia
+22,2024,United Kingdom,1.562,Europe & Central Asia
+23,2024,United States,1.614,North America
+24,2024,Poland,1.595,Europe & Central Asia
+25,2024,Uruguay,1.654,Latin America & Caribbean
+26,2024,Kosovo,1.454,Europe & Central Asia
+27,2024,Serbia,1.62,Europe & Central Asia
+28,2024,Saudi Arabia,1.566,Middle East & North Africa
+29,2024,France,1.535,Europe & Central Asia
+30,2024,Singapore,1.565,East Asia & Pacific
+31,2024,Romania,1.401,Europe & Central Asia
+32,2024,Brazil,1.519,Latin America & Caribbean
+33,2024,El Salvador,1.228,Latin America & Caribbean
+34,2024,Spain,1.685,Europe & Central Asia
+35,2024,Estonia,1.716,Europe & Central Asia
+36,2024,Italy,1.526,Europe & Central Asia
+37,2024,Panama,1.6,Latin America & Caribbean
+38,2024,Argentina,1.622,Latin America & Caribbean
+39,2024,Kazakhstan,1.688,Europe & Central Asia
+40,2024,Guatemala,1.33,Latin America & Caribbean
+41,2024,Chile,1.577,Latin America & Caribbean
+42,2024,Vietnam,1.533,East Asia & Pacific
+43,2024,Nicaragua,1.47,Latin America & Caribbean
+44,2024,Malta,1.671,Middle East & North Africa
+45,2024,Thailand,1.551,East Asia & Pacific
+46,2024,Slovak Republic,1.762,Europe & Central Asia
+47,2024,Latvia,1.711,Europe & Central Asia
+48,2024,Uzbekistan,1.615,Europe & Central Asia
+49,2024,Paraguay,1.615,Latin America & Caribbean
+50,2024,Japan,1.55,East Asia & Pacific
+51,2024,Bosnia and Herzegovina,1.545,Europe & Central Asia
+52,2024,Philippines,1.385,East Asia & Pacific
+53,2024,"Korea, Rep.",1.357,East Asia & Pacific
+54,2024,Bahrain,1.391,Middle East & North Africa
+55,2024,Portugal,1.56,Europe & Central Asia
+56,2024,Colombia,1.513,Latin America & Caribbean
+57,2024,Ecuador,1.32,Latin America & Caribbean
+58,2024,Honduras,1.187,Latin America & Caribbean
+59,2024,Malaysia,1.315,East Asia & Pacific
+60,2024,Peru,1.364,Latin America & Caribbean
+61,2024,Russian Federation,1.549,Europe & Central Asia
+62,2024,Cyprus,1.348,Europe & Central Asia
+63,2024,China,1.307,East Asia & Pacific
+64,2024,Hungary,1.742,Europe & Central Asia
+65,2024,Montenegro,1.551,Europe & Central Asia
+66,2024,Croatia,1.673,Europe & Central Asia
+67,2024,Jamaica,1.545,Latin America & Caribbean
+68,2024,Bolivia,1.356,Latin America & Caribbean
+69,2024,Kyrgyz Republic,1.715,Europe & Central Asia
+70,2024,Dominican Republic,1.5,Latin America & Caribbean
+71,2024,Mongolia,1.731,East Asia & Pacific
+72,2024,Mauritius,1.521,Sub-Saharan Africa
+73,2024,Moldova,1.43,Europe & Central Asia
+74,2024,Greece,1.438,Europe & Central Asia
+75,2024,"Venezuela, RB",1.493,Latin America & Caribbean
+76,2024,Indonesia,1.372,East Asia & Pacific
+77,2024,Algeria,1.363,Middle East & North Africa
+78,2024,Bulgaria,1.725,Europe & Central Asia
+79,2024,North Macedonia,1.537,Europe & Central Asia
+80,2024,Armenia,1.349,Europe & Central Asia
+81,2024,"Hong Kong SAR, China",1.41,East Asia & Pacific
+82,2024,Albania,1.122,Europe & Central Asia
+83,2024,Tajikistan,1.555,Europe & Central Asia
+84,2024,Georgia,1.275,Europe & Central Asia
+85,2024,Nepal,1.21,South Asia
+86,2024,Lao PDR,1.01,East Asia & Pacific
+87,2024,Turkiye,1.444,Europe & Central Asia
+88,2024,South Africa,1.465,Sub-Saharan Africa
+89,2024,Mozambique,1.131,Sub-Saharan Africa
+90,2024,Gabon,1.224,Sub-Saharan Africa
+91,2024,Cote d'Ivoire,0.76,Sub-Saharan Africa
+92,2024,"Iran, Islamic Rep.",1.367,Middle East & North Africa
+93,2024,"Congo, Rep.",0.796,Sub-Saharan Africa
+94,2024,Iraq,1.275,Middle East & North Africa
+95,2024,Guinea,0.791,Sub-Saharan Africa
+96,2024,Namibia,1.482,Sub-Saharan Africa
+97,2024,Cameroon,0.986,Sub-Saharan Africa
+98,2024,Nigeria,1.245,Sub-Saharan Africa
+99,2024,Senegal,0.977,Sub-Saharan Africa
+100,2024,West Bank and Gaza,1.456,Middle East & North Africa
+101,2024,Pakistan,0.759,South Asia
+102,2024,Niger,0.796,Sub-Saharan Africa
+103,2024,Ukraine,1.472,Europe & Central Asia
+104,2024,Morocco,0.635,Middle East & North Africa
+105,2024,Tunisia,1.224,Middle East & North Africa
+106,2024,Mauritania,0.919,Sub-Saharan Africa
+107,2024,Kenya,1.047,Sub-Saharan Africa
+108,2024,Uganda,1.342,Sub-Saharan Africa
+109,2024,"Gambia, The",0.958,Sub-Saharan Africa
+110,2024,India,0.86,South Asia
+111,2024,Chad,0.902,Sub-Saharan Africa
+112,2024,Burkina Faso,0.828,Sub-Saharan Africa
+113,2024,Benin,0.228,Sub-Saharan Africa
+114,2024,Mali,0.908,Sub-Saharan Africa
+115,2024,Cambodia,1.215,East Asia & Pacific
+116,2024,Ghana,1.01,Sub-Saharan Africa
+117,2024,Myanmar,1.144,East Asia & Pacific
+118,2024,Togo,0.736,Sub-Saharan Africa
+119,2024,Jordan,1.202,Middle East & North Africa
+120,2024,Liberia,0.888,Sub-Saharan Africa
+121,2024,Madagascar,0.938,Sub-Saharan Africa
+122,2024,Zambia,1.013,Sub-Saharan Africa
+123,2024,Ethiopia,1.051,Sub-Saharan Africa
+124,2024,Sri Lanka,1.308,South Asia
+125,2024,Bangladesh,0.286,South Asia
+126,2024,"Egypt, Arab Rep.",1.075,Middle East & North Africa
+127,2024,Tanzania,0.908,Sub-Saharan Africa
+128,2024,Comoros,0.501,Sub-Saharan Africa
+129,2024,Botswana,1.146,Sub-Saharan Africa
+130,2024,Zimbabwe,0.961,Sub-Saharan Africa
+131,2024,Malawi,0.489,Sub-Saharan Africa
+132,2024,Lebanon,0.984,Middle East & North Africa
+133,2024,Sierra Leone,0.692,Sub-Saharan Africa
+134,2024,Afghanistan,0.0,South Asia
+0,2023,Afghanistan,0.0,South Asia
+1,2023,Albania,0.924,Europe & Central Asia
+2,2023,Algeria,1.191,Middle East & North Africa
+3,2023,Argentina,1.381,Latin America & Caribbean
+4,2023,Armenia,1.154,Europe & Central Asia
+5,2023,Australia,1.461,East Asia & Pacific
+6,2023,Austria,1.336,Europe & Central Asia
+7,2023,Bahrain,,Middle East & North Africa
+8,2023,Bangladesh,0.249,South Asia
+9,2023,Belgium,1.44,Europe & Central Asia
+10,2023,Benin,0.128,Sub-Saharan Africa
+11,2023,Bolivia,1.179,Latin America & Caribbean
+12,2023,Bosnia and Herzegovina,1.318,Europe & Central Asia
+13,2023,Botswana,0.969,Sub-Saharan Africa
+14,2023,Brazil,1.269,Latin America & Caribbean
+15,2023,Bulgaria,1.469,Europe & Central Asia
+16,2023,Burkina Faso,0.685,Sub-Saharan Africa
+17,2023,Cambodia,1.019,East Asia & Pacific
+18,2023,Cameroon,0.856,Sub-Saharan Africa
+19,2023,Canada,1.459,North America
+20,2023,Chad,0.805,Sub-Saharan Africa
+21,2023,Chile,1.369,Latin America & Caribbean
+22,2023,China,1.239,East Asia & Pacific
+23,2023,Colombia,1.241,Latin America & Caribbean
+24,2023,Comoros,0.328,Sub-Saharan Africa
+25,2023,"Congo, Rep.",0.622,Sub-Saharan Africa
+26,2023,Costa Rica,1.373,Latin America & Caribbean
+27,2023,Cote d'Ivoire,0.578,Sub-Saharan Africa
+28,2023,Croatia,1.445,Europe & Central Asia
+29,2023,Cyprus,1.217,Europe & Central Asia
+30,2023,Czechia,1.511,Europe & Central Asia
+31,2023,Denmark,1.52,Europe & Central Asia
+32,2023,Dominican Republic,1.272,Latin America & Caribbean
+33,2023,Ecuador,1.151,Latin America & Caribbean
+34,2023,"Egypt, Arab Rep.",0.996,Middle East & North Africa
+35,2023,El Salvador,1.08,Latin America & Caribbean
+36,2023,Estonia,1.527,Europe & Central Asia
+37,2023,Ethiopia,0.915,Sub-Saharan Africa
+38,2023,Finland,1.572,Europe & Central Asia
+39,2023,France,1.348,Europe & Central Asia
+40,2023,Gabon,1.038,Sub-Saharan Africa
+41,2023,"Gambia, The",0.684,Sub-Saharan Africa
+42,2023,Georgia,0.99,Europe & Central Asia
+43,2023,Germany,1.39,Europe & Central Asia
+44,2023,Ghana,0.747,Sub-Saharan Africa
+45,2023,Greece,1.276,Europe & Central Asia
+46,2023,Guatemala,1.169,Latin America & Caribbean
+47,2023,Guinea,0.622,Sub-Saharan Africa
+48,2023,Honduras,1.035,Latin America & Caribbean
+49,2023,"Hong Kong SAR, China",1.184,East Asia & Pacific
+50,2023,Hungary,1.528,Europe & Central Asia
+51,2023,Iceland,1.617,Europe & Central Asia
+52,2023,India,0.653,South Asia
+53,2023,Indonesia,1.184,East Asia & Pacific
+54,2023,"Iran, Islamic Rep.",1.136,Middle East & North Africa
+55,2023,Iraq,0.996,Middle East & North Africa
+56,2023,Ireland,1.39,Europe & Central Asia
+57,2023,Israel,1.513,Middle East & North Africa
+58,2023,Italy,1.328,Europe & Central Asia
+59,2023,Jamaica,1.324,Latin America & Caribbean
+60,2023,Japan,1.354,East Asia & Pacific
+61,2023,Jordan,0.983,Middle East & North Africa
+62,2023,Kazakhstan,1.457,Europe & Central Asia
+63,2023,Kenya,0.895,Sub-Saharan Africa
+64,2023,Kosovo,1.277,Europe & Central Asia
+65,2023,Kyrgyz Republic,1.477,Europe & Central Asia
+66,2023,Lao PDR,0.846,East Asia & Pacific
+67,2023,Latvia,1.508,Europe & Central Asia
+68,2023,Lebanon,0.577,Middle East & North Africa
+69,2023,Liberia,0.673,Sub-Saharan Africa
+70,2023,Lithuania,1.454,Europe & Central Asia
+71,2023,Luxembourg,1.355,Europe & Central Asia
+72,2023,Madagascar,0.823,Sub-Saharan Africa
+73,2023,Malawi,0.41,Sub-Saharan Africa
+74,2023,Malaysia,1.143,East Asia & Pacific
+75,2023,Mali,0.688,Sub-Saharan Africa
+76,2023,Malta,1.444,Middle East & North Africa
+77,2023,Mauritania,0.705,Sub-Saharan Africa
+78,2023,Mauritius,1.358,Sub-Saharan Africa
+79,2023,Mexico,1.241,Latin America & Caribbean
+80,2023,Mongolia,1.511,East Asia & Pacific
+81,2023,Montenegro,1.318,Europe & Central Asia
+82,2023,Morocco,0.471,Middle East & North Africa
+83,2023,Mozambique,0.883,Sub-Saharan Africa
+84,2023,Myanmar,0.988,East Asia & Pacific
+85,2023,Namibia,1.212,Sub-Saharan Africa
+86,2023,Nepal,0.99,South Asia
+87,2023,Netherlands,1.462,Europe & Central Asia
+88,2023,New Zealand,1.527,East Asia & Pacific
+89,2023,Nicaragua,1.263,Latin America & Caribbean
+90,2023,Niger,0.677,Sub-Saharan Africa
+91,2023,Nigeria,1.075,Sub-Saharan Africa
+92,2023,North Macedonia,1.277,Europe & Central Asia
+93,2023,Norway,1.517,Europe & Central Asia
+94,2023,Pakistan,0.6,South Asia
+95,2023,Panama,1.392,Latin America & Caribbean
+96,2023,Paraguay,1.408,Latin America & Caribbean
+97,2023,Peru,1.18,Latin America & Caribbean
+98,2023,Philippines,1.146,East Asia & Pacific
+99,2023,Poland,1.417,Europe & Central Asia
+100,2023,Portugal,1.368,Europe & Central Asia
+101,2023,"Korea, Rep.",1.178,East Asia & Pacific
+102,2023,Moldova,1.277,Europe & Central Asia
+103,2023,Romania,1.236,Europe & Central Asia
+104,2023,Russian Federation,1.351,Europe & Central Asia
+105,2023,Saudi Arabia,1.361,Middle East & North Africa
+106,2023,Senegal,0.751,Sub-Saharan Africa
+107,2023,Serbia,1.391,Europe & Central Asia
+108,2023,Sierra Leone,0.566,Sub-Saharan Africa
+109,2023,Singapore,1.361,East Asia & Pacific
+110,2023,Slovak Republic,1.54,Europe & Central Asia
+111,2023,Slovenia,1.502,Europe & Central Asia
+112,2023,South Africa,1.369,Sub-Saharan Africa
+113,2023,Spain,1.471,Europe & Central Asia
+114,2023,Sri Lanka,1.179,South Asia
+115,2023,West Bank and Gaza,,Middle East & North Africa
+116,2023,Sweden,1.501,Europe & Central Asia
+117,2023,Switzerland,1.425,Europe & Central Asia
+118,2023,Tajikistan,,Europe & Central Asia
+119,2023,Tanzania,0.706,Sub-Saharan Africa
+120,2023,Thailand,1.347,East Asia & Pacific
+121,2023,Togo,0.586,Sub-Saharan Africa
+122,2023,Tunisia,0.955,Middle East & North Africa
+123,2023,Turkiye,1.175,Europe & Central Asia
+124,2023,Uganda,1.151,Sub-Saharan Africa
+125,2023,Ukraine,1.315,Europe & Central Asia
+126,2023,United Arab Emirates,1.164,Middle East & North Africa
+127,2023,United Kingdom,1.326,Europe & Central Asia
+128,2023,United States,1.392,North America
+129,2023,Uruguay,1.431,Latin America & Caribbean
+130,2023,Uzbekistan,1.394,Europe & Central Asia
+131,2023,"Venezuela, RB",1.321,Latin America & Caribbean
+132,2023,Vietnam,1.267,East Asia & Pacific
+133,2023,Zambia,0.809,Sub-Saharan Africa
+134,2023,Zimbabwe,0.85,Sub-Saharan Africa
+0,2022,Afghanistan,0.0,South Asia
+1,2022,Albania,0.951,Europe & Central Asia
+2,2022,Algeria,1.298,Middle East & North Africa
+3,2022,Argentina,1.388,Latin America & Caribbean
+4,2022,Armenia,1.134,Europe & Central Asia
+5,2022,Australia,1.497,East Asia & Pacific
+6,2022,Austria,1.382,Europe & Central Asia
+7,2022,Bahrain,1.269,Middle East & North Africa
+8,2022,Bangladesh,0.513,South Asia
+9,2022,Belgium,1.449,Europe & Central Asia
+10,2022,Benin,0.242,Sub-Saharan Africa
+11,2022,Bolivia,1.187,Latin America & Caribbean
+12,2022,Bosnia and Herzegovina,1.361,Europe & Central Asia
+13,2022,Botswana,1.041,Sub-Saharan Africa
+14,2022,Brazil,1.25,Latin America & Caribbean
+15,2022,Bulgaria,1.457,Europe & Central Asia
+16,2022,Burkina Faso,0.814,Sub-Saharan Africa
+17,2022,Cambodia,1.024,East Asia & Pacific
+18,2022,Cameroon,0.871,Sub-Saharan Africa
+19,2022,Canada,1.484,North America
+20,2022,Chad,0.962,Sub-Saharan Africa
+21,2022,Chile,1.384,Latin America & Caribbean
+22,2022,China,1.249,East Asia & Pacific
+23,2022,Colombia,1.213,Latin America & Caribbean
+24,2022,Comoros,0.327,Sub-Saharan Africa
+25,2022,"Congo, Rep.",0.665,Sub-Saharan Africa
+26,2022,Costa Rica,1.34,Latin America & Caribbean
+27,2022,Cote d'Ivoire,0.584,Sub-Saharan Africa
+28,2022,Croatia,1.455,Europe & Central Asia
+29,2022,Cyprus,1.224,Europe & Central Asia
+30,2022,Czechia,1.544,Europe & Central Asia
+31,2022,Denmark,1.548,Europe & Central Asia
+32,2022,Dominican Republic,1.227,Latin America & Caribbean
+33,2022,Ecuador,1.173,Latin America & Caribbean
+34,2022,"Egypt, Arab Rep.",0.972,Middle East & North Africa
+35,2022,El Salvador,1.044,Latin America & Caribbean
+36,2022,Estonia,1.526,Europe & Central Asia
+37,2022,Ethiopia,1.114,Sub-Saharan Africa
+38,2022,Finland,1.585,Europe & Central Asia
+39,2022,France,1.433,Europe & Central Asia
+40,2022,Gabon,1.021,Sub-Saharan Africa
+41,2022,"Gambia, The",0.614,Sub-Saharan Africa
+42,2022,Georgia,0.947,Europe & Central Asia
+43,2022,Germany,1.401,Europe & Central Asia
+44,2022,Ghana,0.756,Sub-Saharan Africa
+45,2022,Greece,1.247,Europe & Central Asia
+46,2022,Guatemala,1.188,Latin America & Caribbean
+47,2022,Guinea,0.776,Sub-Saharan Africa
+48,2022,Honduras,1.072,Latin America & Caribbean
+49,2022,"Hong Kong SAR, China",1.201,East Asia & Pacific
+50,2022,Hungary,1.519,Europe & Central Asia
+51,2022,Iceland,1.62,Europe & Central Asia
+52,2022,India,0.674,South Asia
+53,2022,Indonesia,1.169,East Asia & Pacific
+54,2022,"Iran, Islamic Rep.",1.102,Middle East & North Africa
+55,2022,Iraq,0.953,Middle East & North Africa
+56,2022,Ireland,1.425,Europe & Central Asia
+57,2022,Israel,1.521,Middle East & North Africa
+58,2022,Italy,1.365,Europe & Central Asia
+59,2022,Jamaica,1.329,Latin America & Caribbean
+60,2022,Japan,1.396,East Asia & Pacific
+61,2022,Jordan,0.98,Middle East & North Africa
+62,2022,Kazakhstan,1.491,Europe & Central Asia
+63,2022,Kenya,0.881,Sub-Saharan Africa
+64,2022,Kosovo,1.269,Europe & Central Asia
+65,2022,Kyrgyz Republic,1.439,Europe & Central Asia
+66,2022,Lao PDR,0.853,East Asia & Pacific
+67,2022,Latvia,1.505,Europe & Central Asia
+68,2022,Lebanon,0.476,Middle East & North Africa
+69,2022,Liberia,0.644,Sub-Saharan Africa
+70,2022,Lithuania,1.511,Europe & Central Asia
+71,2022,Luxembourg,1.357,Europe & Central Asia
+72,2022,Madagascar,0.779,Sub-Saharan Africa
+73,2022,Malawi,0.479,Sub-Saharan Africa
+74,2022,Malaysia,1.155,East Asia & Pacific
+75,2022,Mali,0.637,Sub-Saharan Africa
+76,2022,Malta,1.468,Middle East & North Africa
+77,2022,Mauritania,0.764,Sub-Saharan Africa
+78,2022,Mauritius,1.382,Sub-Saharan Africa
+79,2022,Mexico,1.169,Latin America & Caribbean
+80,2022,Mongolia,1.494,East Asia & Pacific
+81,2022,Montenegro,1.385,Europe & Central Asia
+82,2022,Morocco,0.535,Middle East & North Africa
+83,2022,Mozambique,0.885,Sub-Saharan Africa
+84,2022,Myanmar,1.125,East Asia & Pacific
+85,2022,Namibia,1.126,Sub-Saharan Africa
+86,2022,Nepal,1.027,South Asia
+87,2022,Netherlands,1.488,Europe & Central Asia
+88,2022,New Zealand,1.544,East Asia & Pacific
+89,2022,Nicaragua,1.292,Latin America & Caribbean
+90,2022,Niger,0.628,Sub-Saharan Africa
+91,2022,Nigeria,1.007,Sub-Saharan Africa
+92,2022,North Macedonia,1.171,Europe & Central Asia
+93,2022,Norway,1.521,Europe & Central Asia
+94,2022,Pakistan,0.657,South Asia
+95,2022,Panama,1.402,Latin America & Caribbean
+96,2022,Paraguay,1.427,Latin America & Caribbean
+97,2022,Peru,1.153,Latin America & Caribbean
+98,2022,Philippines,1.108,East Asia & Pacific
+99,2022,Poland,1.474,Europe & Central Asia
+100,2022,Portugal,1.356,Europe & Central Asia
+101,2022,"Korea, Rep.",1.188,East Asia & Pacific
+102,2022,Moldova,1.302,Europe & Central Asia
+103,2022,Romania,1.28,Europe & Central Asia
+104,2022,Russian Federation,1.383,Europe & Central Asia
+105,2022,Saudi Arabia,1.37,Middle East & North Africa
+106,2022,Senegal,0.727,Sub-Saharan Africa
+107,2022,Serbia,1.343,Europe & Central Asia
+108,2022,Sierra Leone,0.54,Sub-Saharan Africa
+109,2022,Singapore,1.354,East Asia & Pacific
+110,2022,Slovak Republic,1.544,Europe & Central Asia
+111,2022,Slovenia,1.539,Europe & Central Asia
+112,2022,South Africa,1.428,Sub-Saharan Africa
+113,2022,Spain,1.491,Europe & Central Asia
+114,2022,Sri Lanka,1.224,South Asia
+115,2022,West Bank and Gaza,1.309,Middle East & North Africa
+116,2022,Sweden,1.51,Europe & Central Asia
+117,2022,Switzerland,1.463,Europe & Central Asia
+118,2022,Tajikistan,1.248,Europe & Central Asia
+119,2022,Tanzania,0.787,Sub-Saharan Africa
+120,2022,Thailand,1.344,East Asia & Pacific
+121,2022,Togo,0.642,Sub-Saharan Africa
+122,2022,Tunisia,0.981,Middle East & North Africa
+123,2022,Turkiye,1.148,Europe & Central Asia
+124,2022,Uganda,1.144,Sub-Saharan Africa
+125,2022,Ukraine,1.354,Europe & Central Asia
+126,2022,United Arab Emirates,1.223,Middle East & North Africa
+127,2022,United Kingdom,1.366,Europe & Central Asia
+128,2022,United States,1.46,North America
+129,2022,Uruguay,1.445,Latin America & Caribbean
+130,2022,Uzbekistan,1.347,Europe & Central Asia
+131,2022,"Venezuela, RB",1.257,Latin America & Caribbean
+132,2022,Vietnam,1.212,East Asia & Pacific
+133,2022,Zambia,0.89,Sub-Saharan Africa
+134,2022,Zimbabwe,0.881,Sub-Saharan Africa
+0,2021,Afghanistan,0.0,South Asia
+1,2021,Albania,0.646,Europe & Central Asia
+2,2021,Algeria,0.97,Middle East & North Africa
+3,2021,Argentina,1.102,Latin America & Caribbean
+4,2021,Armenia,0.82,Europe & Central Asia
+5,2021,Australia,1.203,East Asia & Pacific
+6,2021,Austria,1.165,Europe & Central Asia
+7,2021,Bahrain,1.029,Middle East & North Africa
+8,2021,Bangladesh,0.614,South Asia
+9,2021,Belgium,1.106,Europe & Central Asia
+10,2021,Benin,0.064,Sub-Saharan Africa
+11,2021,Bolivia,0.88,Latin America & Caribbean
+12,2021,Bosnia and Herzegovina,1.068,Europe & Central Asia
+13,2021,Botswana,0.815,Sub-Saharan Africa
+14,2021,Brazil,1.044,Latin America & Caribbean
+15,2021,Bulgaria,1.163,Europe & Central Asia
+16,2021,Burkina Faso,0.565,Sub-Saharan Africa
+17,2021,Cambodia,0.732,East Asia & Pacific
+18,2021,Cameroon,0.672,Sub-Saharan Africa
+19,2021,Canada,1.188,North America
+20,2021,Chad,0.506,Sub-Saharan Africa
+21,2021,Chile,1.08,Latin America & Caribbean
+22,2021,China,0.958,East Asia & Pacific
+23,2021,Colombia,0.929,Latin America & Caribbean
+24,2021,Comoros,0.476,Sub-Saharan Africa
+25,2021,"Congo, Rep.",0.405,Sub-Saharan Africa
+26,2021,Costa Rica,1.054,Latin America & Caribbean
+27,2021,Cote d'Ivoire,0.442,Sub-Saharan Africa
+28,2021,Croatia,1.183,Europe & Central Asia
+29,2021,Cyprus,0.909,Europe & Central Asia
+30,2021,Czechia,1.26,Europe & Central Asia
+31,2021,Denmark,1.243,Europe & Central Asia
+32,2021,Dominican Republic,1.003,Latin America & Caribbean
+33,2021,Ecuador,0.879,Latin America & Caribbean
+34,2021,"Egypt, Arab Rep.",0.732,Middle East & North Africa
+35,2021,El Salvador,0.768,Latin America & Caribbean
+36,2021,Estonia,1.232,Europe & Central Asia
+37,2021,Ethiopia,0.809,Sub-Saharan Africa
+38,2021,Finland,1.258,Europe & Central Asia
+39,2021,France,1.219,Europe & Central Asia
+40,2021,Gabon,0.738,Sub-Saharan Africa
+41,2021,"Gambia, The",0.621,Sub-Saharan Africa
+42,2021,Georgia,0.612,Europe & Central Asia
+43,2021,Germany,1.088,Europe & Central Asia
+44,2021,Ghana,0.595,Sub-Saharan Africa
+45,2021,Greece,0.98,Europe & Central Asia
+46,2021,Guatemala,0.831,Latin America & Caribbean
+47,2021,Guinea,0.566,Sub-Saharan Africa
+48,2021,Honduras,0.885,Latin America & Caribbean
+49,2021,"Hong Kong SAR, China",0.954,East Asia & Pacific
+50,2021,Hungary,1.233,Europe & Central Asia
+51,2021,Iceland,1.32,Europe & Central Asia
+52,2021,India,0.376,South Asia
+53,2021,Indonesia,0.883,East Asia & Pacific
+54,2021,"Iran, Islamic Rep.",0.741,Middle East & North Africa
+55,2021,Iraq,0.682,Middle East & North Africa
+56,2021,Ireland,1.166,Europe & Central Asia
+57,2021,Israel,1.221,Middle East & North Africa
+58,2021,Italy,1.052,Europe & Central Asia
+59,2021,Jamaica,1.045,Latin America & Caribbean
+60,2021,Japan,1.089,East Asia & Pacific
+61,2021,Jordan,0.724,Middle East & North Africa
+62,2021,Kazakhstan,1.22,Europe & Central Asia
+63,2021,Kenya,0.605,Sub-Saharan Africa
+64,2021,Kosovo,0.949,Europe & Central Asia
+65,2021,Kyrgyz Republic,1.109,Europe & Central Asia
+66,2021,Lao PDR,0.654,East Asia & Pacific
+67,2021,Latvia,1.221,Europe & Central Asia
+68,2021,Lebanon,0.498,Middle East & North Africa
+69,2021,Liberia,0.67,Sub-Saharan Africa
+70,2021,Lithuania,1.204,Europe & Central Asia
+71,2021,Luxembourg,1.155,Europe & Central Asia
+72,2021,Madagascar,0.645,Sub-Saharan Africa
+73,2021,Malawi,0.279,Sub-Saharan Africa
+74,2021,Malaysia,0.938,East Asia & Pacific
+75,2021,Mali,0.483,Sub-Saharan Africa
+76,2021,Malta,1.169,Middle East & North Africa
+77,2021,Mauritania,0.865,Sub-Saharan Africa
+78,2021,Mauritius,1.116,Sub-Saharan Africa
+79,2021,Mexico,0.886,Latin America & Caribbean
+80,2021,Mongolia,1.197,East Asia & Pacific
+81,2021,Montenegro,1.023,Europe & Central Asia
+82,2021,Morocco,0.268,Middle East & North Africa
+83,2021,Mozambique,0.66,Sub-Saharan Africa
+84,2021,Myanmar,0.829,East Asia & Pacific
+85,2021,Namibia,0.877,Sub-Saharan Africa
+86,2021,Nepal,0.784,South Asia
+87,2021,Netherlands,1.206,Europe & Central Asia
+88,2021,New Zealand,1.235,East Asia & Pacific
+89,2021,Nicaragua,1.029,Latin America & Caribbean
+90,2021,Niger,0.56,Sub-Saharan Africa
+91,2021,Nigeria,0.732,Sub-Saharan Africa
+92,2021,North Macedonia,0.863,Europe & Central Asia
+93,2021,Norway,1.239,Europe & Central Asia
+94,2021,Pakistan,0.413,South Asia
+95,2021,Panama,1.107,Latin America & Caribbean
+96,2021,Paraguay,1.13,Latin America & Caribbean
+97,2021,Peru,0.865,Latin America & Caribbean
+98,2021,Philippines,0.912,East Asia & Pacific
+99,2021,Poland,1.174,Europe & Central Asia
+100,2021,Portugal,1.078,Europe & Central Asia
+101,2021,"Korea, Rep.",0.886,East Asia & Pacific
+102,2021,Moldova,1.008,Europe & Central Asia
+103,2021,Romania,1.006,Europe & Central Asia
+104,2021,Russian Federation,1.095,Europe & Central Asia
+105,2021,Saudi Arabia,1.092,Middle East & North Africa
+106,2021,Senegal,0.53,Sub-Saharan Africa
+107,2021,Serbia,1.086,Europe & Central Asia
+108,2021,Sierra Leone,0.416,Sub-Saharan Africa
+109,2021,Singapore,1.127,East Asia & Pacific
+110,2021,Slovak Republic,1.232,Europe & Central Asia
+111,2021,Slovenia,1.249,Europe & Central Asia
+112,2021,South Africa,1.088,Sub-Saharan Africa
+113,2021,Spain,1.211,Europe & Central Asia
+114,2021,Sri Lanka,0.934,South Asia
+115,2021,West Bank and Gaza,0.957,Middle East & North Africa
+116,2021,Sweden,1.204,Europe & Central Asia
+117,2021,Switzerland,1.226,Europe & Central Asia
+118,2021,Tajikistan,1.005,Europe & Central Asia
+119,2021,Tanzania,0.597,Sub-Saharan Africa
+120,2021,Thailand,1.096,East Asia & Pacific
+121,2021,Togo,0.322,Sub-Saharan Africa
+122,2021,Tunisia,0.596,Middle East & North Africa
+123,2021,Turkiye,0.865,Europe & Central Asia
+124,2021,Uganda,0.875,Sub-Saharan Africa
+125,2021,Ukraine,1.081,Europe & Central Asia
+126,2021,United Arab Emirates,0.98,Middle East & North Africa
+127,2021,United Kingdom,1.143,Europe & Central Asia
+128,2021,United States,1.182,North America
+129,2021,Uruguay,1.18,Latin America & Caribbean
+130,2021,Uzbekistan,1.092,Europe & Central Asia
+131,2021,"Venezuela, RB",0.968,Latin America & Caribbean
+132,2021,Vietnam,0.932,East Asia & Pacific
+133,2021,Zambia,0.577,Sub-Saharan Africa
+134,2021,Zimbabwe,0.69,Sub-Saharan Africa
+0,2020,Afghanistan,0.0,South Asia
+1,2020,Albania,0.529,Europe & Central Asia
+2,2020,Algeria,0.765,Middle East & North Africa
+3,2020,Argentina,0.98,Latin America & Caribbean
+4,2020,Armenia,0.758,Europe & Central Asia
+5,2020,Australia,1.076,East Asia & Pacific
+6,2020,Austria,1.062,Europe & Central Asia
+7,2020,Bahrain,0.899,Middle East & North Africa
+8,2020,Bangladesh,0.52,South Asia
+9,2020,Belgium,0.998,Europe & Central Asia
+10,2020,Benin,0.058,Sub-Saharan Africa
+11,2020,Bolivia,0.782,Latin America & Caribbean
+12,2020,Bosnia and Herzegovina,0.919,Europe & Central Asia
+13,2020,Botswana,0.724,Sub-Saharan Africa
+14,2020,Brazil,0.944,Latin America & Caribbean
+15,2020,Bulgaria,1.055,Europe & Central Asia
+16,2020,Burkina Faso,0.472,Sub-Saharan Africa
+17,2020,Cambodia,0.68,East Asia & Pacific
+18,2020,Cameroon,0.556,Sub-Saharan Africa
+19,2020,Canada,1.044,North America
+20,2020,Chad,0.353,Sub-Saharan Africa
+21,2020,Chile,0.946,Latin America & Caribbean
+22,2020,China,0.785,East Asia & Pacific
+23,2020,Colombia,0.866,Latin America & Caribbean
+24,2020,Comoros,0.367,Sub-Saharan Africa
+25,2020,"Congo, Rep.",0.392,Sub-Saharan Africa
+26,2020,Costa Rica,0.966,Latin America & Caribbean
+27,2020,Cote d'Ivoire,0.409,Sub-Saharan Africa
+28,2020,Croatia,1.039,Europe & Central Asia
+29,2020,Cyprus,0.765,Europe & Central Asia
+30,2020,Czechia,1.09,Europe & Central Asia
+31,2020,Denmark,1.108,Europe & Central Asia
+32,2020,Dominican Republic,0.879,Latin America & Caribbean
+33,2020,Ecuador,0.806,Latin America & Caribbean
+34,2020,"Egypt, Arab Rep.",0.647,Middle East & North Africa
+35,2020,El Salvador,0.675,Latin America & Caribbean
+36,2020,Estonia,1.079,Europe & Central Asia
+37,2020,Ethiopia,0.679,Sub-Saharan Africa
+38,2020,Finland,1.106,Europe & Central Asia
+39,2020,France,1.081,Europe & Central Asia
+40,2020,Gabon,0.707,Sub-Saharan Africa
+41,2020,"Gambia, The",0.511,Sub-Saharan Africa
+42,2020,Georgia,0.47,Europe & Central Asia
+43,2020,Germany,0.993,Europe & Central Asia
+44,2020,Ghana,0.595,Sub-Saharan Africa
+45,2020,Greece,0.811,Europe & Central Asia
+46,2020,Guatemala,0.79,Latin America & Caribbean
+47,2020,Guinea,0.399,Sub-Saharan Africa
+48,2020,Honduras,0.787,Latin America & Caribbean
+49,2020,"Hong Kong SAR, China",0.841,East Asia & Pacific
+50,2020,Hungary,1.083,Europe & Central Asia
+51,2020,Iceland,1.172,Europe & Central Asia
+52,2020,India,0.316,South Asia
+53,2020,Indonesia,0.786,East Asia & Pacific
+54,2020,"Iran, Islamic Rep.",0.557,Middle East & North Africa
+55,2020,Iraq,0.638,Middle East & North Africa
+56,2020,Ireland,1.092,Europe & Central Asia
+57,2020,Israel,1.074,Middle East & North Africa
+58,2020,Italy,0.94,Europe & Central Asia
+59,2020,Jamaica,0.932,Latin America & Caribbean
+60,2020,Japan,0.949,East Asia & Pacific
+61,2020,Jordan,0.685,Middle East & North Africa
+62,2020,Kazakhstan,1.103,Europe & Central Asia
+63,2020,Kenya,0.508,Sub-Saharan Africa
+64,2020,Kosovo,0.807,Europe & Central Asia
+65,2020,Kyrgyz Republic,0.971,Europe & Central Asia
+66,2020,Lao PDR,0.598,East Asia & Pacific
+67,2020,Latvia,1.047,Europe & Central Asia
+68,2020,Lebanon,0.868,Middle East & North Africa
+69,2020,Liberia,0.58,Sub-Saharan Africa
+70,2020,Lithuania,1.065,Europe & Central Asia
+71,2020,Luxembourg,1.003,Europe & Central Asia
+72,2020,Madagascar,0.503,Sub-Saharan Africa
+73,2020,Malawi,0.168,Sub-Saharan Africa
+74,2020,Malaysia,0.797,East Asia & Pacific
+75,2020,Mali,0.59,Sub-Saharan Africa
+76,2020,Malta,1.055,Middle East & North Africa
+77,2020,Mauritania,0.749,Sub-Saharan Africa
+78,2020,Mauritius,0.996,Sub-Saharan Africa
+79,2020,Mexico,0.83,Latin America & Caribbean
+80,2020,Mongolia,1.065,East Asia & Pacific
+81,2020,Montenegro,0.891,Europe & Central Asia
+82,2020,Morocco,0.219,Middle East & North Africa
+83,2020,Mozambique,0.634,Sub-Saharan Africa
+84,2020,Myanmar,0.713,East Asia & Pacific
+85,2020,Namibia,0.801,Sub-Saharan Africa
+86,2020,Nepal,0.702,South Asia
+87,2020,Netherlands,1.079,Europe & Central Asia
+88,2020,New Zealand,1.094,East Asia & Pacific
+89,2020,Nicaragua,0.904,Latin America & Caribbean
+90,2020,Niger,0.402,Sub-Saharan Africa
+91,2020,Nigeria,0.625,Sub-Saharan Africa
+92,2020,North Macedonia,0.772,Europe & Central Asia
+93,2020,Norway,1.108,Europe & Central Asia
+94,2020,Pakistan,0.423,South Asia
+95,2020,Panama,0.976,Latin America & Caribbean
+96,2020,Paraguay,0.97,Latin America & Caribbean
+97,2020,Peru,0.833,Latin America & Caribbean
+98,2020,Philippines,0.828,East Asia & Pacific
+99,2020,Poland,0.982,Europe & Central Asia
+100,2020,Portugal,0.939,Europe & Central Asia
+101,2020,"Korea, Rep.",0.758,East Asia & Pacific
+102,2020,Moldova,0.888,Europe & Central Asia
+103,2020,Romania,0.832,Europe & Central Asia
+104,2020,Russian Federation,0.992,Europe & Central Asia
+105,2020,Saudi Arabia,0.964,Middle East & North Africa
+106,2020,Senegal,0.558,Sub-Saharan Africa
+107,2020,Serbia,0.924,Europe & Central Asia
+108,2020,Sierra Leone,0.377,Sub-Saharan Africa
+109,2020,Singapore,1.019,East Asia & Pacific
+110,2020,Slovak Republic,1.066,Europe & Central Asia
+111,2020,Slovenia,1.093,Europe & Central Asia
+112,2020,South Africa,0.895,Sub-Saharan Africa
+113,2020,Spain,1.057,Europe & Central Asia
+114,2020,Sri Lanka,0.82,South Asia
+115,2020,West Bank and Gaza,0.819,Middle East & North Africa
+116,2020,Sweden,1.062,Europe & Central Asia
+117,2020,Switzerland,1.079,Europe & Central Asia
+118,2020,Tajikistan,0.895,Europe & Central Asia
+119,2020,Tanzania,0.54,Sub-Saharan Africa
+120,2020,Thailand,0.957,East Asia & Pacific
+121,2020,Togo,0.239,Sub-Saharan Africa
+122,2020,Tunisia,0.515,Middle East & North Africa
+123,2020,Turkiye,0.809,Europe & Central Asia
+124,2020,Uganda,0.718,Sub-Saharan Africa
+125,2020,Ukraine,0.958,Europe & Central Asia
+126,2020,United Arab Emirates,0.86,Middle East & North Africa
+127,2020,United Kingdom,1.062,Europe & Central Asia
+128,2020,United States,1.03,North America
+129,2020,Uruguay,1.042,Latin America & Caribbean
+130,2020,Uzbekistan,1.027,Europe & Central Asia
+131,2020,"Venezuela, RB",0.897,Latin America & Caribbean
+132,2020,Vietnam,0.873,East Asia & Pacific
+133,2020,Zambia,0.552,Sub-Saharan Africa
+134,2020,Zimbabwe,0.649,Sub-Saharan Africa
+0,2019,Afghanistan,0.356,South Asia
+1,2019,Albania,0.83,Europe & Central Asia
+2,2019,Algeria,1.143,Middle East & North Africa
+3,2019,Argentina,1.373,Latin America & Caribbean
+4,2019,Armenia,1.035,Europe & Central Asia
+5,2019,Australia,1.477,East Asia & Pacific
+6,2019,Austria,1.437,Europe & Central Asia
+7,2019,Bahrain,1.315,Middle East & North Africa
+8,2019,Bangladesh,0.869,South Asia
+9,2019,Belgium,1.399,Europe & Central Asia
+10,2019,Benin,0.352,Sub-Saharan Africa
+11,2019,Bolivia,1.142,Latin America & Caribbean
+12,2019,Bosnia and Herzegovina,1.204,Europe & Central Asia
+13,2019,Botswana,1.086,Sub-Saharan Africa
+14,2019,Brazil,1.363,Latin America & Caribbean
+15,2019,Bulgaria,1.461,Europe & Central Asia
+16,2019,Burkina Faso,0.929,Sub-Saharan Africa
+17,2019,Cambodia,1.071,East Asia & Pacific
+18,2019,Cameroon,0.9,Sub-Saharan Africa
+19,2019,Canada,1.435,North America
+20,2019,Chad,0.739,Sub-Saharan Africa
+21,2019,Chile,1.323,Latin America & Caribbean
+22,2019,China,1.132,East Asia & Pacific
+23,2019,Colombia,1.334,Latin America & Caribbean
+24,2019,Comoros,0.723,Sub-Saharan Africa
+25,2019,"Congo, Rep.",0.758,Sub-Saharan Africa
+26,2019,Costa Rica,1.375,Latin America & Caribbean
+27,2019,Cote d'Ivoire,0.8,Sub-Saharan Africa
+28,2019,Croatia,1.311,Europe & Central Asia
+29,2019,Cyprus,1.149,Europe & Central Asia
+30,2019,Czechia,1.405,Europe & Central Asia
+31,2019,Denmark,1.503,Europe & Central Asia
+32,2019,Dominican Republic,1.329,Latin America & Caribbean
+33,2019,Ecuador,1.221,Latin America & Caribbean
+34,2019,"Egypt, Arab Rep.",0.983,Middle East & North Africa
+35,2019,El Salvador,1.149,Latin America & Caribbean
+36,2019,Estonia,1.453,Europe & Central Asia
+37,2019,Ethiopia,1.001,Sub-Saharan Africa
+38,2019,Finland,1.5,Europe & Central Asia
+39,2019,France,1.459,Europe & Central Asia
+40,2019,Gabon,1.106,Sub-Saharan Africa
+41,2019,"Gambia, The",0.883,Sub-Saharan Africa
+42,2019,Georgia,0.731,Europe & Central Asia
+43,2019,Germany,1.369,Europe & Central Asia
+44,2019,Ghana,0.966,Sub-Saharan Africa
+45,2019,Greece,1.169,Europe & Central Asia
+46,2019,Guatemala,1.174,Latin America & Caribbean
+47,2019,Guinea,0.751,Sub-Saharan Africa
+48,2019,Honduras,1.187,Latin America & Caribbean
+49,2019,"Hong Kong SAR, China",1.244,East Asia & Pacific
+50,2019,Hungary,1.423,Europe & Central Asia
+51,2019,Iceland,1.548,Europe & Central Asia
+52,2019,India,0.644,South Asia
+53,2019,Indonesia,1.155,East Asia & Pacific
+54,2019,"Iran, Islamic Rep.",0.886,Middle East & North Africa
+55,2019,Iraq,1.011,Middle East & North Africa
+56,2019,Ireland,1.471,Europe & Central Asia
+57,2019,Israel,1.403,Middle East & North Africa
+58,2019,Italy,1.347,Europe & Central Asia
+59,2019,Jamaica,1.408,Latin America & Caribbean
+60,2019,Japan,1.332,East Asia & Pacific
+61,2019,Jordan,1.14,Middle East & North Africa
+62,2019,Kazakhstan,1.453,Europe & Central Asia
+63,2019,Kenya,0.905,Sub-Saharan Africa
+64,2019,Kosovo,1.184,Europe & Central Asia
+65,2019,Kyrgyz Republic,1.341,Europe & Central Asia
+66,2019,Lao PDR,0.987,East Asia & Pacific
+67,2019,Latvia,1.414,Europe & Central Asia
+68,2019,Lebanon,1.192,Middle East & North Africa
+69,2019,Liberia,0.921,Sub-Saharan Africa
+70,2019,Lithuania,1.433,Europe & Central Asia
+71,2019,Luxembourg,1.388,Europe & Central Asia
+72,2019,North Macedonia,1.183,Europe & Central Asia
+73,2019,Madagascar,0.824,Sub-Saharan Africa
+74,2019,Malawi,0.53,Sub-Saharan Africa
+75,2019,Malaysia,1.174,East Asia & Pacific
+76,2019,Mali,0.973,Sub-Saharan Africa
+77,2019,Malta,1.443,Middle East & North Africa
+78,2019,Mauritania,1.113,Sub-Saharan Africa
+79,2019,Mauritius,1.396,Sub-Saharan Africa
+80,2019,Mexico,1.226,Latin America & Caribbean
+81,2019,Mongolia,1.459,East Asia & Pacific
+82,2019,Montenegro,1.266,Europe & Central Asia
+83,2019,Morocco,0.645,Middle East & North Africa
+84,2019,Mozambique,0.955,Sub-Saharan Africa
+85,2019,Myanmar,1.098,East Asia & Pacific
+86,2019,Namibia,1.246,Sub-Saharan Africa
+87,2019,Nepal,1.101,South Asia
+88,2019,Netherlands,1.464,Europe & Central Asia
+89,2019,New Zealand,1.487,East Asia & Pacific
+90,2019,Nicaragua,1.271,Latin America & Caribbean
+91,2019,Niger,0.704,Sub-Saharan Africa
+92,2019,Nigeria,0.987,Sub-Saharan Africa
+93,2019,Norway,1.495,Europe & Central Asia
+94,2019,Pakistan,0.873,South Asia
+95,2019,Panama,1.376,Latin America & Caribbean
+96,2019,Paraguay,1.368,Latin America & Caribbean
+97,2019,Peru,1.208,Latin America & Caribbean
+98,2019,Philippines,1.245,East Asia & Pacific
+99,2019,Poland,1.31,Europe & Central Asia
+100,2019,Portugal,1.34,Europe & Central Asia
+101,2019,"Korea, Rep.",1.134,East Asia & Pacific
+102,2019,Moldova,1.237,Europe & Central Asia
+103,2019,Romania,1.194,Europe & Central Asia
+104,2019,Russian Federation,1.379,Europe & Central Asia
+105,2019,Saudi Arabia,1.31,Middle East & North Africa
+106,2019,Senegal,0.955,Sub-Saharan Africa
+107,2019,Serbia,1.327,Europe & Central Asia
+108,2019,Sierra Leone,0.748,Sub-Saharan Africa
+109,2019,Singapore,1.395,East Asia & Pacific
+110,2019,Slovak Republic,1.424,Europe & Central Asia
+111,2019,Slovenia,1.465,Europe & Central Asia
+112,2019,South Africa,1.259,Sub-Saharan Africa
+113,2019,Spain,1.421,Europe & Central Asia
+114,2019,Sri Lanka,1.195,South Asia
+115,2019,West Bank and Gaza,1.195,Middle East & North Africa
+116,2019,Sweden,1.433,Europe & Central Asia
+117,2019,Switzerland,1.472,Europe & Central Asia
+118,2019,Tajikistan,1.218,Europe & Central Asia
+119,2019,Tanzania,0.873,Sub-Saharan Africa
+120,2019,Thailand,1.348,East Asia & Pacific
+121,2019,Togo,0.548,Sub-Saharan Africa
+122,2019,Tunisia,0.872,Middle East & North Africa
+123,2019,Turkiye,1.197,Europe & Central Asia
+124,2019,Uganda,1.052,Sub-Saharan Africa
+125,2019,Ukraine,1.321,Europe & Central Asia
+126,2019,United Arab Emirates,1.251,Middle East & North Africa
+127,2019,United Kingdom,1.458,Europe & Central Asia
+128,2019,United States,1.405,North America
+129,2019,Uruguay,1.425,Latin America & Caribbean
+130,2019,Uzbekistan,1.434,Europe & Central Asia
+131,2019,"Venezuela, RB",1.349,Latin America & Caribbean
+132,2019,Vietnam,1.253,East Asia & Pacific
+133,2019,Zambia,0.896,Sub-Saharan Africa
+134,2019,Zimbabwe,1.048,Sub-Saharan Africa

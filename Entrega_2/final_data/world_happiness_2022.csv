@@ -1,4 +1,4 @@
-,Year,Rank,Country name,Ladder score,upperwhisker,lowerwhisker,Explained by: Log GDP per capita,Explained by: Social support,Explained by: Healthy life expectancy,Explained by: Freedom to make life choices,Explained by: Generosity,Explained by: Perceptions of corruption,Dystopia + residual
+Unnamed: 0,Year,Rank,Country name,Ladder score,upperwhisker,lowerwhisker,Explained by: Log GDP per capita,Explained by: Social support,Explained by: Healthy life expectancy,Explained by: Freedom to make life choices,Explained by: Generosity,Explained by: Perceptions of corruption,Dystopia + residual
 0,2022,137,Afghanistan,"1,859","1,923","1,795","0,645","0,000","0,087","0,000","0,093","0,059","0,976"
 1,2022,83,Albania,"5,277","5,406","5,148","1,449","0,951","0,480","0,549","0,133","0,037","1,678"
 2,2022,81,Algeria,"5,329","5,451","5,207","1,353","1,298","0,409","0,252","0,073","0,152","1,791"
@@ -32,7 +32,6 @@
 30,2022,18,Czech Republic,"6,845","6,931","6,759","1,823","1,544","0,477","0,693","0,158","0,050","2,099"
 31,2022,2,Denmark,"7,586","7,667","7,506","1,949","1,548","0,537","0,734","0,208","0,525","2,084"
 32,2022,73,Dominican Republic,"5,569","5,712","5,426","1,536","1,227","0,351","0,623","0,083","0,195","1,553"
-33,2022,133,Democratic Republic of the Congo,"3,207","3,394","3,020","0,531","0,784","0,105","0,375","0,183","0,068","1,162"
 34,2022,74,Ecuador,"5,559","5,682","5,436","1,343","1,173","0,476","0,560","0,079","0,069","1,860"
 35,2022,121,Egypt,"4,170","4,287","4,054","1,377","0,972","0,326","0,467","0,038","0,250","0,740"
 36,2022,50,El Salvador,"6,122","6,257","5,986","1,278","1,044","0,383","0,713","0,079","0,222","2,403"
